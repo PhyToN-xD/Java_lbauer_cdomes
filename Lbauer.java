@@ -1,7 +1,7 @@
-public class lbauer implements TellYourName {
+public class Lbauer implements TellYourName {
 
   @Override
   public void tell() {
-    System.out.println("lbauer");
+    System.out.println("Lukas Bauer");
   }
 }
