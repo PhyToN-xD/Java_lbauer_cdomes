@@ -1,6 +1,6 @@
-public class cdomes implements TellYourName{
+public class Cdomes implements TellYourName{
   @Override
   public void tell() {
-    System.out.println("cdomes");
+    System.out.println("Christian Domes");
   }
 }
